@@ -37,7 +37,7 @@ For Week 2 practical, I did my self-study about how to use Joomla to build a web
 To learn how to use Joomla, I watched a tutorial on Youtube. After the tutor learning, I spent two hours designing my own website.
 Why I choose AWS to host my website, not Infinityfree, because AWS is able to provide a high-speed connection, and it is under their algorithm protection.
 * [how to host the website on AWS](https://youtu.be/Islmm-LMu38?si=sTIFerHYvohTutCn)
-* [Why use AWS for Web hosting] (https://aws.amazon.com/websites/?nc1=h_ls)
+* [Why use AWS for Web hosting](https://aws.amazon.com/websites/?nc1=h_ls)
 * [How to build a website with Joomla](https://youtu.be/h5VZwTLdgdM?si=sgfd-DRT5KLaicI4)
 
 ### Estimated hours
